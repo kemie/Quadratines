@@ -2,6 +2,7 @@
 <glyph name="o" format="2">
 	<advance width="580"/>
 	<unicode hex="006F"/>
+	<anchor x="280" y="514" name="top"/>
 	<outline>
 		<contour>
 			<point x="280" y="-14" type="curve" smooth="yes"/>
@@ -35,7 +36,7 @@
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2021-08-18 08:11:32 +0000</string>
+			<string>2021-08-18 15:22:43 +0000</string>
 		</dict>
 	</lib>
 </glyph>
