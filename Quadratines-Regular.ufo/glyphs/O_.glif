@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="O" format="2">
-	<advance width="620"/>
+	<advance width="670"/>
 	<unicode hex="004F"/>
 	<outline>
 		<contour>
@@ -35,7 +35,7 @@
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2021-08-18 07:07:24 +0000</string>
+			<string>2021-08-18 08:03:03 +0000</string>
 		</dict>
 	</lib>
 </glyph>
