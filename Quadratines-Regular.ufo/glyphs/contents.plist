@@ -10,7 +10,7 @@
     <string>a.glif</string>
     <key>e</key>
     <string>e.glif</string>
-    <key>n.001</key>
+    <key>g.alt</key>
     <string>n.001.glif</string>
     <key>o</key>
     <string>o.glif</string>
@@ -164,5 +164,9 @@
     <string>z.glif</string>
     <key>zero</key>
     <string>zero.glif</string>
+    <key>ntilde</key>
+    <string>ntilde.glif</string>
+    <key>Ntilde</key>
+    <string>N_tilde.glif</string>
   </dict>
 </plist>

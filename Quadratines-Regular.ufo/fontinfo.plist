@@ -27,7 +27,7 @@
     <key>italicAngle</key>
     <real>0</real>
     <key>openTypeHeadCreated</key>
-    <string>2021/08/24 03:46:06</string>
+    <string>2021/08/27 03:38:41</string>
     <key>openTypeHheaAscender</key>
     <integer>0</integer>
     <key>openTypeHheaDescender</key>
@@ -93,7 +93,7 @@
         <key>x</key>
         <real>500</real>
         <key>y</key>
-        <real>200</real>
+        <real>585</real>
         <key>angle</key>
         <real>0</real>
       </dict>
@@ -101,9 +101,25 @@
         <key>x</key>
         <real>500</real>
         <key>y</key>
-        <real>766</real>
+        <real>58</real>
         <key>angle</key>
         <real>0</real>
+      </dict>
+      <dict>
+        <key>x</key>
+        <real>864</real>
+        <key>y</key>
+        <real>300</real>
+        <key>angle</key>
+        <real>270</real>
+      </dict>
+      <dict>
+        <key>x</key>
+        <real>290</real>
+        <key>y</key>
+        <real>244</real>
+        <key>angle</key>
+        <real>270</real>
       </dict>
       <dict>
         <key>x</key>
@@ -115,11 +131,27 @@
       </dict>
       <dict>
         <key>x</key>
-        <real>317</real>
+        <real>500</real>
         <key>y</key>
-        <real>300</real>
+        <real>375</real>
         <key>angle</key>
-        <real>270</real>
+        <real>0</real>
+      </dict>
+      <dict>
+        <key>x</key>
+        <real>500</real>
+        <key>y</key>
+        <real>200</real>
+        <key>angle</key>
+        <real>0</real>
+      </dict>
+      <dict>
+        <key>x</key>
+        <real>500</real>
+        <key>y</key>
+        <real>750</real>
+        <key>angle</key>
+        <real>0</real>
       </dict>
       <dict>
         <key>x</key>
