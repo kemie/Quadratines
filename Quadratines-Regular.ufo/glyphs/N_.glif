@@ -5,10 +5,10 @@
 	<anchor x="315" y="786" name="top"/>
 	<outline>
 		<contour>
-			<point x="383" y="0" type="line"/>
-			<point x="503" y="0" type="line"/>
-			<point x="249" y="750" type="line"/>
-			<point x="129" y="750" type="line"/>
+			<point x="403" y="0" type="line"/>
+			<point x="523" y="0" type="line"/>
+			<point x="229" y="750" type="line"/>
+			<point x="109" y="750" type="line"/>
 		</contour>
 		<contour>
 			<point x="55" y="0" type="curve"/>
@@ -50,7 +50,11 @@
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2021-08-31 18:10:53 +0000</string>
+			<string>2021-08-31 18:39:08 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>H</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>H</string>
 		</dict>
 	</lib>
 </glyph>
