@@ -1,9 +1,10 @@
-# Prefix: Prefix
-@GDEF_Simple = [\E \I \a \e \g.alt \o \A \B \C \D \F \G \H \J \K \L \M \N \O \P \Q \R \S \T \U \V \W \X 
-	\Y \Z \b \breve \c \caron \cedilla \circumflex \comma \d \dieresis \dotaccent \eight 
-	\f \five \four \g \grave \h \hungarumlaut \hyphen \i \j \k \l \m \macron \n \nine 
-	\oacute \ogonek \one \p \period \q \r \ring \s \seven \six \space \t \three \tilde \two 
-	\u \v \w \x \y \z \zero \ntilde \Ntilde ];
+
+
+@GDEF_Simple = [\A \B \C \D \E \F \G \H \I \J \K \L \M \N \Ntilde \O \P \Q \R \S \T \U \V \W \X \Y \Z 
+	\a \b \breve \c \caron \cedilla \circumflex \comma \d \dieresis \dotaccent \e \eight 
+	\f \five \four \g \g.alt \grave \h \hungarumlaut \hyphen \i \j \k \l \m \macron \n \nine 
+	\ntilde \o \oacute \ogonek \one \p \period \q \r \ring \s \seven \six \space \t \three 
+	\tilde \two \u \v \w \x \y \z \zero ];
 @GDEF_Mark = [\acute ];
 
 table GDEF {
