@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="U.001" format="2">
+	<advance width="659"/>
+	<outline>
+		<contour>
+			<point x="327" y="-14" type="curve" smooth="yes"/>
+			<point x="508" y="-14"/>
+			<point x="601" y="86"/>
+			<point x="603" y="365" type="curve" smooth="yes"/>
+			<point x="604" y="539"/>
+			<point x="607" y="692"/>
+			<point x="609" y="750" type="curve"/>
+			<point x="481" y="750" type="line"/>
+			<point x="485" y="689"/>
+			<point x="491" y="535"/>
+			<point x="491" y="365" type="curve" smooth="yes"/>
+			<point x="491" y="224"/>
+			<point x="466" y="76"/>
+			<point x="327" y="76" type="curve" smooth="yes"/>
+			<point x="197" y="76"/>
+			<point x="169" y="217"/>
+			<point x="167" y="365" type="curve" smooth="yes"/>
+			<point x="165" y="530"/>
+			<point x="171" y="686"/>
+			<point x="177" y="750" type="curve"/>
+			<point x="50" y="750" type="line"/>
+			<point x="53" y="686"/>
+			<point x="57" y="530"/>
+			<point x="58" y="365" type="curve" smooth="yes"/>
+			<point x="59" y="82"/>
+			<point x="155" y="-14"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.hintData</key>
+			<dict>
+				<key>hhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>-14</integer>
+						<key>width</key>
+						<integer>90</integer>
+					</dict>
+				</array>
+				<key>vhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>33</integer>
+						<key>width</key>
+						<integer>109</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>456</integer>
+						<key>width</key>
+						<integer>136</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>466</integer>
+						<key>width</key>
+						<integer>120</integer>
+					</dict>
+				</array>
+			</dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-09-01 11:52:12 +0000</string>
+		</dict>
+	</lib>
+</glyph>

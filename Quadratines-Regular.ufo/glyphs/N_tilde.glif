@@ -6,4 +6,10 @@
 		<component base="tilde" xOffset="166" yOffset="201"/>
 		<component base="N"/>
 	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-09-01 11:30:43 +0000</string>
+		</dict>
+	</lib>
 </glyph>
