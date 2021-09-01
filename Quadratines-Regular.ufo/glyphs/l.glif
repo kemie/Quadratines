@@ -1,41 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="l" format="2">
-	<advance width="272"/>
-	<unicode hex="006C"/>
-	<outline>
-		<contour>
-			<point x="162" y="0" type="curve" smooth="yes"/>
-			<point x="209" y="0"/>
-			<point x="227" y="17"/>
-			<point x="227" y="17" type="curve"/>
-			<point x="227" y="86" type="line"/>
-			<point x="227" y="86"/>
-			<point x="208" y="78"/>
-			<point x="184" y="78" type="curve" smooth="yes"/>
-			<point x="166" y="78"/>
-			<point x="162" y="89"/>
-			<point x="162" y="106" type="curve" smooth="yes"/>
-			<point x="162" y="126.383"/>
-			<point x="162" y="719"/>
-			<point x="162" y="745" type="curve" smooth="yes"/>
-			<point x="162" y="801"/>
-			<point x="140" y="812"/>
-			<point x="140" y="812" type="curve"/>
-			<point x="54" y="779" type="line"/>
-			<point x="54" y="779"/>
-			<point x="72" y="760"/>
-			<point x="72" y="722" type="curve" smooth="yes"/>
-			<point x="72" y="693"/>
-			<point x="72" y="102"/>
-			<point x="72" y="93" type="curve" smooth="yes"/>
-			<point x="72" y="42"/>
-			<point x="78" y="0"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2021-08-31 18:10:53 +0000</string>
-		</dict>
-	</lib>
+  <advance width="272"/>
+  <unicode hex="006C"/>
+  <outline>
+    <contour>
+      <point x="162" y="-5" type="curve" smooth="yes"/>
+      <point x="209" y="-5"/>
+      <point x="227" y="12"/>
+      <point x="227" y="12" type="curve"/>
+      <point x="227" y="86" type="line"/>
+      <point x="227" y="86"/>
+      <point x="208" y="78"/>
+      <point x="184" y="78" type="curve" smooth="yes"/>
+      <point x="166" y="78"/>
+      <point x="162" y="89"/>
+      <point x="162" y="106" type="curve" smooth="yes"/>
+      <point x="162" y="126.383"/>
+      <point x="162" y="719"/>
+      <point x="162" y="745" type="curve" smooth="yes"/>
+      <point x="162" y="801"/>
+      <point x="140" y="812"/>
+      <point x="140" y="812" type="curve"/>
+      <point x="52" y="764" type="line"/>
+      <point x="52" y="764"/>
+      <point x="70" y="745"/>
+      <point x="70" y="707" type="curve" smooth="yes"/>
+      <point x="70" y="678"/>
+      <point x="70" y="97"/>
+      <point x="70" y="88" type="curve" smooth="yes"/>
+      <point x="70" y="37"/>
+      <point x="78" y="-5"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict/>
+  </lib>
 </glyph>
