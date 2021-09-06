@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CR" format="2">
+	<advance width="333"/>
+	<unicode hex="000D"/>
+	<outline>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-09-06 11:14:18 +0000</string>
+		</dict>
+	</lib>
+</glyph>

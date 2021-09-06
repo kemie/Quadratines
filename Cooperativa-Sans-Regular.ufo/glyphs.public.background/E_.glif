@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="E" format="2">
+	<advance width="499"/>
+	<outline>
+		<contour>
+			<point x="70" y="463.5" type="move" smooth="yes"/>
+		</contour>
+	</outline>
+</glyph>
