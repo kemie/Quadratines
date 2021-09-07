@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="z" format="2">
-  <advance width="515"/>
-  <unicode hex="007A"/>
+	<advance width="515"/>
+	<unicode hex="007A"/>
+	<anchor x="258" y="550" name="top"/>
+	<anchor x="258" y="0" name="bottom"/>
+	<anchor x="258" y="275" name="center"/>
+	<outline>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-09-06 11:13:19 +0000</string>
+		</dict>
+	</lib>
 </glyph>

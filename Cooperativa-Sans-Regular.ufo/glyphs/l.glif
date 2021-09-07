@@ -1,27 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="l" format="2">
-  <advance width="254"/>
-  <unicode hex="006C"/>
-  <outline>
-    <contour>
-      <point x="68" y="800" type="line"/>
-      <point x="68" y="216" type="line" smooth="yes"/>
-      <point x="68" y="92"/>
-      <point x="80" y="28.667"/>
-      <point x="114" y="-16" type="curve"/>
-      <point x="152" y="-10"/>
-      <point x="184" y="0"/>
-      <point x="207" y="24" type="curve"/>
-      <point x="171.111" y="71.1875"/>
-      <point x="158.167" y="127"/>
-      <point x="158.167" y="252" type="curve" smooth="yes"/>
-      <point x="158.167" y="800" type="line"/>
-      <point x="138" y="801.999"/>
-      <point x="114" y="801.999" type="curve" smooth="yes"/>
-      <point x="84" y="801.999"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict/>
-  </lib>
+	<advance width="254"/>
+	<unicode hex="006C"/>
+	<anchor x="127" y="800" name="top"/>
+	<anchor x="127" y="0" name="bottom"/>
+	<anchor x="127" y="400" name="center"/>
+	<anchor x="234" y="800" name="topright"/>
+	<outline>
+		<contour>
+			<point x="119" y="-19" type="curve"/>
+			<point x="148" y="-10"/>
+			<point x="179" y="5"/>
+			<point x="212" y="24" type="curve"/>
+			<point x="176" y="71"/>
+			<point x="158" y="127"/>
+			<point x="158" y="252" type="curve" smooth="yes"/>
+			<point x="158" y="800" type="line"/>
+			<point x="158" y="800"/>
+			<point x="138" y="801.999"/>
+			<point x="114" y="801.999" type="curve" smooth="yes"/>
+			<point x="84" y="801.999"/>
+			<point x="68" y="800"/>
+			<point x="68" y="800" type="curve"/>
+			<point x="68" y="216" type="line" smooth="yes"/>
+			<point x="68" y="92"/>
+			<point x="85" y="26"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-09-06 11:15:35 +0000</string>
+		</dict>
+	</lib>
 </glyph>
