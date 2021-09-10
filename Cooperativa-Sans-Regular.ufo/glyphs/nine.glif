@@ -2,4 +2,12 @@
 <glyph name="nine" format="2">
   <advance width="600"/>
   <unicode hex="0039"/>
+  <outline>
+    <contour>
+      <point x="147" y="480" type="line"/>
+      <point x="213" y="198" type="line"/>
+      <point x="426" y="198" type="line"/>
+      <point x="390" y="444" type="line"/>
+    </contour>
+  </outline>
 </glyph>
