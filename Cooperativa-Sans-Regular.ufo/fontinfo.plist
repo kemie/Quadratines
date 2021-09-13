@@ -14,6 +14,8 @@
     <integer>1</integer>
     <key>versionMinor</key>
     <integer>0</integer>
+    <key>copyright</key>
+    <string></string>
     <key>unitsPerEm</key>
     <integer>1000</integer>
     <key>capHeight</key>
@@ -27,7 +29,7 @@
     <key>italicAngle</key>
     <real>0</real>
     <key>openTypeHeadCreated</key>
-    <string>2021/09/10 17:57:27</string>
+    <string>2021/09/05 18:47:01</string>
     <key>openTypeHheaAscender</key>
     <integer>0</integer>
     <key>openTypeHheaDescender</key>
@@ -139,7 +141,47 @@
     <array>
       <dict>
         <key>x</key>
-        <real>289</real>
+        <real>291</real>
+        <key>y</key>
+        <real>358</real>
+        <key>angle</key>
+        <real>270</real>
+      </dict>
+      <dict>
+        <key>x</key>
+        <real>-7984</real>
+        <key>y</key>
+        <real>300</real>
+        <key>angle</key>
+        <real>270</real>
+      </dict>
+      <dict>
+        <key>x</key>
+        <real>500</real>
+        <key>y</key>
+        <real>211</real>
+        <key>angle</key>
+        <real>0</real>
+      </dict>
+      <dict>
+        <key>x</key>
+        <real>500</real>
+        <key>y</key>
+        <real>576</real>
+        <key>angle</key>
+        <real>0</real>
+      </dict>
+      <dict>
+        <key>x</key>
+        <real>499</real>
+        <key>y</key>
+        <real>693.5</real>
+        <key>angle</key>
+        <real>0</real>
+      </dict>
+      <dict>
+        <key>x</key>
+        <real>446</real>
         <key>y</key>
         <real>295</real>
         <key>angle</key>

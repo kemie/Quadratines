@@ -6,23 +6,17 @@
     <string>C_.glif</string>
     <key>E</key>
     <string>E_.glif</string>
+    <key>F</key>
+    <string>F_.glif</string>
     <key>G</key>
     <string>G_.glif</string>
-    <key>O</key>
-    <string>O_.glif</string>
-    <key>P</key>
-    <string>P_.glif</string>
     <key>a</key>
     <string>a.glif</string>
-    <key>e</key>
-    <string>e.glif</string>
     <key>f</key>
     <string>f.glif</string>
     <key>m</key>
     <string>m.glif</string>
     <key>v</key>
     <string>v.glif</string>
-    <key>w</key>
-    <string>w.glif</string>
   </dict>
 </plist>

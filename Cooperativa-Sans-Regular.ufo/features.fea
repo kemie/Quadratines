@@ -1,13 +1,15 @@
 
+#Mark attachment classes (defined in GDEF, used in lookupflags)
 
-@GDEF_Simple = [\C \E \G \O \P \a \e \f \m \v \w \A \B \CR \D \F \H \I \J \K \L \M \N \Ntilde \Q \R \S 
-	\T \U \V \W \X \Y \Z \acute \b \breve \c \caron \cedilla \circumflex \comma \d \dieresis 
-	\dotaccent \eight \five \four \g \g.alt \grave \h \hungarumlaut \hyphen \i \j \k \l \n 
-	\nine \ntilde \o \oacute \ogonek \one \overscore \p \p.001 \period \q \r \ring \s 
-	\seven \six \space \t \three \tilde \two \u \x \y \z \zero ];
+@GDEF_Simple = [\A \B \C \CR \D \E \F \G \H \I \J \K \L \M \N \Ntilde \O \P \Q \R \S \T \U \V \W \X \Y 
+	\Z \a \b \breve \c \caron \cedilla \circumflex \comma \d \dotaccent \e \eight \f \five 
+	\four \g \g.alt \grave \h \hungarumlaut \hyphen \i \j \k \l \m \n \nine \ntilde \o 
+	\oacute \ogonek \one \overscore \p \p.001 \period \q \r \ring \s \seven \six \space \t 
+	\three \tilde \two \u \v \w \x \y \z \zero \semicolon \odieresis \aacute \eacute \at ];
+@GDEF_Mark = [\acute \dieresis ];
 
 table GDEF {
-  GlyphClassDef @GDEF_Simple, , , ;
+  GlyphClassDef @GDEF_Simple, , @GDEF_Mark, ;
 
 } GDEF;
 
