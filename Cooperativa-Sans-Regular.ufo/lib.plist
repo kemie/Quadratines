@@ -4,9 +4,9 @@
 <dict>
 	<key>com.schriftgestaltung.DisplayStrings</key>
 	<array>
-		<string>nthe quick brown fox jumps over a lazun dog;.,:</string>
-		<string>z</string>
-		<string>v</string>
+		<string>nthe quick brown fox jumps over a lazyun dog;.,:
+JOVENCILLO EMPONZOÑADO DE WHISKY QUE FIGUROTA EXHIBE HTH 1234567890</string>
+		<string>ABCDEFGHIJKLMNÑOÖPQRSTUVWXYZaábcdeéfghijklmnñoóöpqrstuvwxyz0123456789 .,:;!¡-@&amp;¨˙`´˝ˆˇ˘˚˜¯¯¸˛</string>
 	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<true/>
@@ -114,8 +114,13 @@
 		<string>semicolon</string>
 		<string>exclam</string>
 		<string>exclamdown</string>
+		<string>question</string>
+		<string>questiondown</string>
 		<string>hyphen</string>
+		<string>parenleft</string>
+		<string>parenright</string>
 		<string>at</string>
+		<string>ampersand</string>
 		<string>dieresis</string>
 		<string>dotaccent</string>
 		<string>grave</string>

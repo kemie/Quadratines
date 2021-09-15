@@ -3,4 +3,10 @@
 	<advance width="364"/>
 	<outline>
 	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-09-15 19:15:24 +0000</string>
+		</dict>
+	</lib>
 </glyph>
