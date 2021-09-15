@@ -2,24 +2,32 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <dict>
-    <key>.notdef</key>
-    <string>_notdef.glif</string>
-    <key>A</key>
-    <string>A_.glif</string>
-    <key>B</key>
-    <string>B_.glif</string>
     <key>C</key>
     <string>C_.glif</string>
-    <key>CR</key>
-    <string>C_R_.glif</string>
-    <key>D</key>
-    <string>D_.glif</string>
     <key>E</key>
     <string>E_.glif</string>
     <key>F</key>
     <string>F_.glif</string>
     <key>G</key>
     <string>G_.glif</string>
+    <key>a</key>
+    <string>a.glif</string>
+    <key>f</key>
+    <string>f.glif</string>
+    <key>m</key>
+    <string>m.glif</string>
+    <key>v</key>
+    <string>v.glif</string>
+    <key>.notdef</key>
+    <string>_notdef.glif</string>
+    <key>A</key>
+    <string>A_.glif</string>
+    <key>B</key>
+    <string>B_.glif</string>
+    <key>CR</key>
+    <string>C_R_.glif</string>
+    <key>D</key>
+    <string>D_.glif</string>
     <key>H</key>
     <string>H_.glif</string>
     <key>I</key>
@@ -60,8 +68,6 @@
     <string>Y_.glif</string>
     <key>Z</key>
     <string>Z_.glif</string>
-    <key>a</key>
-    <string>a.glif</string>
     <key>acute</key>
     <string>acute.glif</string>
     <key>b</key>
@@ -88,8 +94,6 @@
     <string>e.glif</string>
     <key>eight</key>
     <string>eight.glif</string>
-    <key>f</key>
-    <string>f.glif</string>
     <key>five</key>
     <string>five.glif</string>
     <key>four</key>
@@ -114,8 +118,6 @@
     <string>k.glif</string>
     <key>l</key>
     <string>l.glif</string>
-    <key>m</key>
-    <string>m.glif</string>
     <key>n</key>
     <string>n.glif</string>
     <key>nine</key>
@@ -162,8 +164,6 @@
     <string>two.glif</string>
     <key>u</key>
     <string>u.glif</string>
-    <key>v</key>
-    <string>v.glif</string>
     <key>w</key>
     <string>w.glif</string>
     <key>x</key>
@@ -184,5 +184,13 @@
     <string>eacute.glif</string>
     <key>at</key>
     <string>at.glif</string>
+    <key>parenleft</key>
+    <string>parenleft.glif</string>
+    <key>parenright</key>
+    <string>parenright.glif</string>
+    <key>question</key>
+    <string>question.glif</string>
+    <key>questiondown</key>
+    <string>questiondown.glif</string>
   </dict>
 </plist>
