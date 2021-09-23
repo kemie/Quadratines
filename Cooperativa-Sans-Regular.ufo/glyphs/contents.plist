@@ -2,24 +2,40 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <dict>
-    <key>.notdef</key>
-    <string>_notdef.glif</string>
-    <key>A</key>
-    <string>A_.glif</string>
-    <key>B</key>
-    <string>B_.glif</string>
     <key>C</key>
     <string>C_.glif</string>
-    <key>CR</key>
-    <string>C_R_.glif</string>
-    <key>D</key>
-    <string>D_.glif</string>
     <key>E</key>
     <string>E_.glif</string>
     <key>F</key>
     <string>F_.glif</string>
     <key>G</key>
     <string>G_.glif</string>
+    <key>O</key>
+    <string>O_.glif</string>
+    <key>P</key>
+    <string>P_.glif</string>
+    <key>e</key>
+    <string>e.glif</string>
+    <key>f</key>
+    <string>f.glif</string>
+    <key>g.alt</key>
+    <string>g.alt.glif</string>
+    <key>m</key>
+    <string>m.glif</string>
+    <key>v</key>
+    <string>v.glif</string>
+    <key>w</key>
+    <string>w.glif</string>
+    <key>.notdef</key>
+    <string>_notdef.glif</string>
+    <key>A</key>
+    <string>A_.glif</string>
+    <key>B</key>
+    <string>B_.glif</string>
+    <key>CR</key>
+    <string>C_R_.glif</string>
+    <key>D</key>
+    <string>D_.glif</string>
     <key>H</key>
     <string>H_.glif</string>
     <key>I</key>
@@ -36,12 +52,8 @@
     <string>N_.glif</string>
     <key>Ntilde</key>
     <string>N_tilde.glif</string>
-    <key>O</key>
-    <string>O_.glif</string>
     <key>Odieresis</key>
     <string>O_dieresis.glif</string>
-    <key>P</key>
-    <string>P_.glif</string>
     <key>Q</key>
     <string>Q_.glif</string>
     <key>R</key>
@@ -94,8 +106,6 @@
     <string>dieresis.glif</string>
     <key>dotaccent</key>
     <string>dotaccent.glif</string>
-    <key>e</key>
-    <string>e.glif</string>
     <key>eacute</key>
     <string>eacute.glif</string>
     <key>eight</key>
@@ -104,16 +114,12 @@
     <string>exclam.glif</string>
     <key>exclamdown</key>
     <string>exclamdown.glif</string>
-    <key>f</key>
-    <string>f.glif</string>
     <key>five</key>
     <string>five.glif</string>
     <key>four</key>
     <string>four.glif</string>
     <key>g</key>
     <string>g.glif</string>
-    <key>g.alt</key>
-    <string>g.alt.glif</string>
     <key>grave</key>
     <string>grave.glif</string>
     <key>h</key>
@@ -130,8 +136,6 @@
     <string>k.glif</string>
     <key>l</key>
     <string>l.glif</string>
-    <key>m</key>
-    <string>m.glif</string>
     <key>macron</key>
     <string>macron.glif</string>
     <key>n</key>
@@ -192,10 +196,6 @@
     <string>two.glif</string>
     <key>u</key>
     <string>u.glif</string>
-    <key>v</key>
-    <string>v.glif</string>
-    <key>w</key>
-    <string>w.glif</string>
     <key>x</key>
     <string>x.glif</string>
     <key>y</key>
@@ -204,5 +204,11 @@
     <string>z.glif</string>
     <key>zero</key>
     <string>zero.glif</string>
+    <key>quotesingle</key>
+    <string>quotesingle.glif</string>
+    <key>asterisk</key>
+    <string>asterisk.glif</string>
+    <key>quotedbl</key>
+    <string>quotedbl.glif</string>
   </dict>
 </plist>

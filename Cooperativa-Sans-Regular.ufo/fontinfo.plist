@@ -6,6 +6,8 @@
     <string>Cooperativa Sans</string>
     <key>styleName</key>
     <string>Normal</string>
+    <key>styleMapFamilyName</key>
+    <string>Cooperativa Sans Regular</string>
     <key>styleMapStyleName</key>
     <string>regular</string>
     <key>versionMajor</key>
@@ -25,7 +27,7 @@
     <key>italicAngle</key>
     <real>0</real>
     <key>openTypeHeadCreated</key>
-    <string>2021/09/15 23:27:32</string>
+    <string>2021/09/22 19:10:06</string>
     <key>openTypeHheaAscender</key>
     <integer>0</integer>
     <key>openTypeHheaDescender</key>
@@ -135,9 +137,17 @@
     <array>
       <dict>
         <key>x</key>
-        <real>291</real>
+        <real>500</real>
         <key>y</key>
-        <real>358</real>
+        <real>64</real>
+        <key>angle</key>
+        <real>0</real>
+      </dict>
+      <dict>
+        <key>x</key>
+        <real>868</real>
+        <key>y</key>
+        <real>300</real>
         <key>angle</key>
         <real>270</real>
       </dict>
@@ -172,14 +182,6 @@
         <real>693.5</real>
         <key>angle</key>
         <real>0</real>
-      </dict>
-      <dict>
-        <key>x</key>
-        <real>446</real>
-        <key>y</key>
-        <real>295</real>
-        <key>angle</key>
-        <real>270</real>
       </dict>
       <dict>
         <key>x</key>
