@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name=".notdef" format="2">
-  <advance width="364"/>
-  <lib>
-    <dict/>
-  </lib>
+	<advance width="364"/>
+	<outline>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-09-24 07:41:13 +0000</string>
+		</dict>
+	</lib>
 </glyph>

@@ -1,38 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="colon" format="2">
-  <advance width="184"/>
-  <unicode hex="003A"/>
-  <outline>
-    <contour>
-      <point x="30" y="45" type="curve" smooth="yes"/>
-      <point x="30" y="79"/>
-      <point x="57" y="106"/>
-      <point x="91" y="106" type="curve" smooth="yes"/>
-      <point x="125" y="106"/>
-      <point x="152" y="79"/>
-      <point x="152" y="45" type="curve" smooth="yes"/>
-      <point x="152" y="11"/>
-      <point x="125" y="-16"/>
-      <point x="91" y="-16" type="curve" smooth="yes"/>
-      <point x="57" y="-16"/>
-      <point x="30" y="11"/>
-    </contour>
-    <contour>
-      <point x="30" y="328" type="curve" smooth="yes"/>
-      <point x="30" y="362"/>
-      <point x="57" y="389"/>
-      <point x="91" y="389" type="curve" smooth="yes"/>
-      <point x="125" y="389"/>
-      <point x="152" y="362"/>
-      <point x="152" y="328" type="curve" smooth="yes"/>
-      <point x="152" y="294"/>
-      <point x="125" y="267"/>
-      <point x="91" y="267" type="curve" smooth="yes"/>
-      <point x="57" y="267"/>
-      <point x="30" y="294"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict/>
-  </lib>
+	<advance width="184"/>
+	<unicode hex="003A"/>
+	<outline>
+		<component base="period" xOffset="1"/>
+		<component base="period" xOffset="1" yOffset="291"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-09-24 07:38:13 +0000</string>
+		</dict>
+	</lib>
 </glyph>
