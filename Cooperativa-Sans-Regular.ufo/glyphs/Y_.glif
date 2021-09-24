@@ -2,6 +2,9 @@
 <glyph name="Y" format="2">
 	<advance width="623"/>
 	<unicode hex="0059"/>
+	<anchor x="312" y="750" name="top"/>
+	<anchor x="312" y="0" name="bottom"/>
+	<anchor x="20" y="750" name="topleft"/>
 	<outline>
 		<contour>
 			<point x="256" y="0" type="line"/>
@@ -27,4 +30,10 @@
 			<point x="263" y="265" type="line"/>
 		</contour>
 	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-09-24 09:27:17 +0000</string>
+		</dict>
+	</lib>
 </glyph>

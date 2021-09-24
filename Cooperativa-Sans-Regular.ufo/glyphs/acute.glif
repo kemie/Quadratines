@@ -2,7 +2,7 @@
 <glyph name="acute" format="2">
 	<advance width="310"/>
 	<unicode hex="00B4"/>
-	<anchor x="135" y="586" name="_Top"/>
+	<anchor x="68" y="583" name="_Top"/>
 	<outline>
 		<contour>
 			<point x="53" y="614" type="curve"/>
@@ -10,9 +10,15 @@
 			<point x="290" y="762"/>
 			<point x="261" y="806"/>
 			<point x="225" y="806" type="curve"/>
-			<point x="28" y="650" type="line"/>
-			<point x="29" y="639"/>
-			<point x="44" y="617"/>
+			<point x="28" y="660" type="line"/>
+			<point x="30" y="642"/>
+			<point x="39" y="622"/>
 		</contour>
 	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-09-24 09:33:00 +0000</string>
+		</dict>
+	</lib>
 </glyph>

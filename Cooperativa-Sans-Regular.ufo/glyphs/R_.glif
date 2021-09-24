@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="R" format="2">
-	<advance width="567"/>
+	<advance width="585"/>
 	<unicode hex="0052"/>
+	<anchor x="293" y="750" name="top"/>
+	<anchor x="293" y="0" name="bottom"/>
 	<outline>
 		<contour>
 			<point x="189" y="300" type="line"/>
@@ -58,7 +60,9 @@
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2021-09-24 07:49:11 +0000</string>
+			<string>2021-09-24 09:27:17 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>H</string>
 		</dict>
 	</lib>
 </glyph>

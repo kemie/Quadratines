@@ -9,12 +9,39 @@
 		<string>:</string>
 		<string>;</string>
 		<string>'</string>
-		<string>a&amp;strp</string>
+		<string>a&amp;s.trp</string>
 		<string>u</string>
 		<string>W</string>
 		<string>R</string>
 		<string>1</string>
 		<string>Sso</string>
+		<string>C</string>
+		<string>c</string>
+		<string>Ag</string>
+		<string>ESCUELA SECUNDARIA
+Agustin Vidalla Cicero
+THE QUICK BROWN FOX JUMPS OVER A LAZY DOG
+the quick brown fox jumps over a lazy dog</string>
+		<string>ı</string>
+		<string>ıi</string>
+		<string>´í</string>
+		<string>á</string>
+		<string>í</string>
+		<string>´ú</string>
+		<string>Á</string>
+		<string>Í</string>
+		<string>Ó</string>
+		<string>Ú</string>
+		<string>ó</string>
+		<string>˜Ñn</string>
+		<string>˜Ñnñ</string>
+		<string>É</string>
+		<string>Ñ</string>
+		<string>0</string>
+		<string>5</string>
+		<string>E</string>
+		<string>F</string>
+		<string>010203040506070809020</string>
 	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<true/>
@@ -27,14 +54,17 @@
 	<key>public.glyphOrder</key>
 	<array>
 		<string>A</string>
+		<string>Aacute</string>
 		<string>B</string>
 		<string>C</string>
 		<string>D</string>
 		<string>E</string>
+		<string>Eacute</string>
 		<string>F</string>
 		<string>G</string>
 		<string>H</string>
 		<string>I</string>
+		<string>Iacute</string>
 		<string>J</string>
 		<string>K</string>
 		<string>L</string>
@@ -42,6 +72,7 @@
 		<string>N</string>
 		<string>Ntilde</string>
 		<string>O</string>
+		<string>Oacute</string>
 		<string>Odieresis</string>
 		<string>P</string>
 		<string>Q</string>
@@ -49,6 +80,7 @@
 		<string>S</string>
 		<string>T</string>
 		<string>U</string>
+		<string>Uacute</string>
 		<string>V</string>
 		<string>W</string>
 		<string>X</string>
@@ -65,6 +97,8 @@
 		<string>g</string>
 		<string>h</string>
 		<string>i</string>
+		<string>idotless</string>
+		<string>iacute</string>
 		<string>j</string>
 		<string>k</string>
 		<string>l</string>
@@ -80,12 +114,15 @@
 		<string>s</string>
 		<string>t</string>
 		<string>u</string>
+		<string>uacute</string>
+		<string>udieresis</string>
 		<string>v</string>
 		<string>w</string>
 		<string>x</string>
 		<string>y</string>
 		<string>z</string>
 		<string>g.alt</string>
+		<string>i.001</string>
 		<string>p.001</string>
 		<string>zero</string>
 		<string>one</string>
@@ -109,6 +146,7 @@
 		<string>question</string>
 		<string>questiondown</string>
 		<string>asterisk</string>
+		<string>numbersign</string>
 		<string>hyphen</string>
 		<string>parenleft</string>
 		<string>parenright</string>
@@ -116,6 +154,8 @@
 		<string>quotesingle</string>
 		<string>at</string>
 		<string>ampersand</string>
+		<string>dollar</string>
+		<string>arrowright</string>
 		<string>dieresis</string>
 		<string>dotaccent</string>
 		<string>grave</string>
@@ -131,5 +171,10 @@
 		<string>cedilla</string>
 		<string>ogonek</string>
 	</array>
+	<key>public.postscriptNames</key>
+	<dict>
+		<key>idotless</key>
+		<string>dotlessi</string>
+	</dict>
 </dict>
 </plist>

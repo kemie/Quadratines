@@ -2,6 +2,9 @@
 <glyph name="h" format="2">
 	<advance width="567"/>
 	<unicode hex="0068"/>
+	<anchor x="284" y="800" name="top"/>
+	<anchor x="284" y="0" name="bottom"/>
+	<anchor x="284" y="400" name="center"/>
 	<outline>
 		<contour>
 			<point x="434" y="-20" type="curve"/>
@@ -60,4 +63,10 @@
 			<point x="90" y="-2"/>
 		</contour>
 	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-09-24 09:27:17 +0000</string>
+		</dict>
+	</lib>
 </glyph>

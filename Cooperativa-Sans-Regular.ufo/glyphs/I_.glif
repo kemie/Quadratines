@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="I" format="2">
-	<advance width="242"/>
+	<advance width="231"/>
 	<unicode hex="0049"/>
+	<anchor x="116" y="750" name="top"/>
+	<anchor x="116" y="0" name="bottom"/>
+	<anchor x="208" y="10" name="ogonek"/>
+	<anchor x="20" y="750" name="topleft"/>
 	<outline>
 		<contour>
 			<point x="61" y="0" type="curve"/>
@@ -22,4 +26,12 @@
 			<point x="61" y="0"/>
 		</contour>
 	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-09-24 09:27:17 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>H</string>
+		</dict>
+	</lib>
 </glyph>

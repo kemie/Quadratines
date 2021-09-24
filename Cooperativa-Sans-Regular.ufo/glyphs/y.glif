@@ -2,6 +2,8 @@
 <glyph name="y" format="2">
 	<advance width="526"/>
 	<unicode hex="0079"/>
+	<anchor x="263" y="550" name="top"/>
+	<anchor x="263" y="0" name="bottom"/>
 	<outline>
 		<contour>
 			<point x="137" y="-204" type="curve" smooth="yes"/>
@@ -45,4 +47,14 @@
 			<point x="15" y="550" type="curve"/>
 		</contour>
 	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-09-24 09:27:17 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>v</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>v</string>
+		</dict>
+	</lib>
 </glyph>
