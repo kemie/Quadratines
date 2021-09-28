@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="d" format="2">
-	<advance width="562"/>
+	<advance width="566"/>
 	<unicode hex="0064"/>
 	<anchor x="281" y="800" name="top"/>
 	<anchor x="281" y="0" name="bottom"/>
@@ -54,7 +54,11 @@
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2021-09-24 09:27:17 +0000</string>
+			<string>2021-09-28 12:25:46 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>o</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>=|n</string>
 		</dict>
 	</lib>
 </glyph>
