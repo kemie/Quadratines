@@ -82,6 +82,8 @@
 	<string>aacute.glif</string>
 	<key>acute</key>
 	<string>acute.glif</string>
+	<key>acutecomb</key>
+	<string>acutecomb.glif</string>
 	<key>ampersand</key>
 	<string>ampersand.glif</string>
 	<key>arrowright</key>
@@ -112,6 +114,8 @@
 	<string>d.glif</string>
 	<key>dieresis</key>
 	<string>dieresis.glif</string>
+	<key>dieresiscomb</key>
+	<string>dieresiscomb.glif</string>
 	<key>dollar</key>
 	<string>dollar.glif</string>
 	<key>dotaccent</key>
@@ -246,6 +250,8 @@
 	<string>three.glif</string>
 	<key>tilde</key>
 	<string>tilde.glif</string>
+	<key>tildecomb</key>
+	<string>tildecomb.glif</string>
 	<key>two</key>
 	<string>two.glif</string>
 	<key>u</key>

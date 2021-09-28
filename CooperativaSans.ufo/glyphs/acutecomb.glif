@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="acute" format="2">
+<glyph name="acutecomb" format="2">
 	<advance width="310"/>
-	<unicode hex="00B4"/>
+	<unicode hex="0301"/>
 	<anchor x="52" y="569" name="_top"/>
 	<outline>
 		<contour>
@@ -18,7 +18,7 @@
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2021-09-28 16:27:23 +0000</string>
+			<string>2021-09-28 16:28:55 +0000</string>
 		</dict>
 	</lib>
 </glyph>
