@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="quotedbl" format="2">
-	<advance width="414"/>
+	<advance width="454"/>
 	<unicode hex="0022"/>
 	<outline>
 		<component base="comma" yOffset="590"/>
@@ -9,7 +9,7 @@
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2021-09-28 12:09:21 +0000</string>
+			<string>2021-09-28 14:53:35 +0000</string>
 		</dict>
 	</lib>
 </glyph>
