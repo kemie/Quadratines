@@ -1,11 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<<<<<<< HEAD:CooperativaSans.ufo/glyphs/_notdef.glif
-<glyph name=".notdef" format="1">
-  <advance width="364"/>
-  <lib>
-    <dict/>
-  </lib>
-=======
 <glyph name=".notdef" format="2">
 	<advance width="444"/>
 	<outline>
@@ -13,8 +6,7 @@
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2021-09-24 09:14:46 +0000</string>
+			<string>2021-09-28 06:51:58 +0000</string>
 		</dict>
 	</lib>
->>>>>>> 64a96ebffaf5013ba58d98fd80efa4318a310ffa:Cooperativa-Sans-Regular.ufo/glyphs/_notdef.glif
 </glyph>

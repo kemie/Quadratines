@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<<<<<<< HEAD:CooperativaSans.ufo/glyphs.public.background/v.glif
-<glyph name="v" format="1">
-  <advance width="513"/>
-  <unicode hex="0076"/>
-  <outline>
-    <contour>
-      <point x="119" y="550" type="move"/>
-    </contour>
-  </outline>
-=======
 <glyph name="v" format="2">
-	<advance width="533"/>
+	<advance width="528"/>
 	<outline>
 		<contour>
-			<point x="129" y="550" type="move"/>
+			<point x="124" y="550" type="move"/>
 		</contour>
 	</outline>
->>>>>>> 64a96ebffaf5013ba58d98fd80efa4318a310ffa:Cooperativa-Sans-Regular.ufo/glyphs.public.background/v.glif
 </glyph>

@@ -1,34 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<<<<<<< HEAD:CooperativaSans.ufo/glyphs.public.background/g.alt.glif
-<glyph name="g.alt" format="1">
-  <advance width="557"/>
-  <outline>
-    <contour>
-      <point x="30" y="369" type="line"/>
-      <point x="30" y="-262" type="line"/>
-      <point x="120" y="-262" type="line"/>
-      <point x="120" y="369" type="line"/>
-    </contour>
-    <contour>
-      <point x="442" y="339" type="line"/>
-      <point x="442" y="-292" type="line"/>
-      <point x="532" y="-292" type="line"/>
-      <point x="532" y="339" type="line"/>
-    </contour>
-    <contour>
-      <point x="22" y="-136" type="line"/>
-      <point x="22" y="-214" type="line"/>
-      <point x="546" y="-214" type="line"/>
-      <point x="546" y="-136" type="line"/>
-    </contour>
-    <contour>
-      <point x="19" y="78" type="line"/>
-      <point x="19" y="0" type="line"/>
-      <point x="543" y="0" type="line"/>
-      <point x="543" y="78" type="line"/>
-    </contour>
-  </outline>
-=======
 <glyph name="g.alt" format="2">
 	<advance width="582"/>
 	<guideline x="30" y="514" angle="0"/>
@@ -59,5 +29,4 @@
 			<point x="553" y="78" type="line"/>
 		</contour>
 	</outline>
->>>>>>> 64a96ebffaf5013ba58d98fd80efa4318a310ffa:Cooperativa-Sans-Regular.ufo/glyphs.public.background/g.alt.glif
 </glyph>
