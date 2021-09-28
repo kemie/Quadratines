@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<<<<<<< HEAD:CooperativaSans.ufo/glyphs/aacute.glif
 <glyph name="aacute" format="1">
   <advance width="528"/>
   <unicode hex="00E1"/>
@@ -6,4 +7,19 @@
     <component base="acute" xOffset="98"/>
     <component base="a"/>
   </outline>
+=======
+<glyph name="aacute" format="2">
+	<advance width="526"/>
+	<unicode hex="00E1"/>
+	<outline>
+		<component base="a"/>
+		<component base="acute" xOffset="89"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-09-24 09:32:28 +0000</string>
+		</dict>
+	</lib>
+>>>>>>> 64a96ebffaf5013ba58d98fd80efa4318a310ffa:Cooperativa-Sans-Regular.ufo/glyphs/aacute.glif
 </glyph>

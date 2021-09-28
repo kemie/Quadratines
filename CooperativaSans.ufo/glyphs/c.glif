@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<<<<<<< HEAD:CooperativaSans.ufo/glyphs/c.glif
 <glyph name="c" format="1">
   <advance width="497"/>
   <unicode hex="0063"/>
@@ -42,4 +43,56 @@
   <lib>
     <dict/>
   </lib>
+=======
+<glyph name="c" format="2">
+	<advance width="504"/>
+	<unicode hex="0063"/>
+	<anchor x="252" y="550" name="top"/>
+	<anchor x="252" y="0" name="bottom"/>
+	<outline>
+		<contour>
+			<point x="272" y="-15" type="curve" smooth="yes"/>
+			<point x="404" y="-15"/>
+			<point x="474" y="41"/>
+			<point x="474" y="41" type="curve"/>
+			<point x="474" y="83"/>
+			<point x="435" y="116"/>
+			<point x="435" y="116" type="curve"/>
+			<point x="435" y="116"/>
+			<point x="367" y="68"/>
+			<point x="280" y="68" type="curve" smooth="yes"/>
+			<point x="218" y="68"/>
+			<point x="139" y="107"/>
+			<point x="139" y="275" type="curve" smooth="yes"/>
+			<point x="139" y="443"/>
+			<point x="207" y="484"/>
+			<point x="298" y="484" type="curve" smooth="yes"/>
+			<point x="385" y="484"/>
+			<point x="409" y="452"/>
+			<point x="409" y="452" type="curve"/>
+			<point x="409" y="452"/>
+			<point x="420" y="466"/>
+			<point x="432" y="489" type="curve" smooth="yes"/>
+			<point x="442" y="509"/>
+			<point x="446" y="527"/>
+			<point x="446" y="527" type="curve"/>
+			<point x="441" y="531"/>
+			<point x="381" y="566"/>
+			<point x="298" y="566" type="curve" smooth="yes"/>
+			<point x="178" y="566"/>
+			<point x="40" y="499"/>
+			<point x="40" y="275" type="curve" smooth="yes"/>
+			<point x="40" y="66"/>
+			<point x="141" y="-15"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-09-24 09:27:17 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>o</string>
+		</dict>
+	</lib>
+>>>>>>> 64a96ebffaf5013ba58d98fd80efa4318a310ffa:Cooperativa-Sans-Regular.ufo/glyphs/c.glif
 </glyph>

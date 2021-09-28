@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<<<<<<< HEAD:CooperativaSans.ufo/glyphs/N_tilde.glif
 <glyph name="Ntilde" format="1">
   <advance width="629"/>
   <unicode hex="00D1"/>
@@ -9,4 +10,21 @@
   <lib>
     <dict/>
   </lib>
+=======
+<glyph name="Ntilde" format="2">
+	<advance width="645"/>
+	<unicode hex="00D1"/>
+	<outline>
+		<component base="N"/>
+		<component base="tilde" xOffset="111" yOffset="169"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-09-24 09:37:13 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>N</string>
+		</dict>
+	</lib>
+>>>>>>> 64a96ebffaf5013ba58d98fd80efa4318a310ffa:Cooperativa-Sans-Regular.ufo/glyphs/N_tilde.glif
 </glyph>

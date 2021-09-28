@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<<<<<<< HEAD:CooperativaSans.ufo/glyphs/semicolon.glif
 <glyph name="semicolon" format="1">
   <advance width="184"/>
   <unicode hex="003B"/>
@@ -35,4 +36,19 @@
   <lib>
     <dict/>
   </lib>
+=======
+<glyph name="semicolon" format="2">
+	<advance width="204"/>
+	<unicode hex="003B"/>
+	<outline>
+		<component base="comma"/>
+		<component base="period" yOffset="291"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-09-24 09:14:46 +0000</string>
+		</dict>
+	</lib>
+>>>>>>> 64a96ebffaf5013ba58d98fd80efa4318a310ffa:Cooperativa-Sans-Regular.ufo/glyphs/semicolon.glif
 </glyph>

@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<<<<<<< HEAD:CooperativaSans.ufo/glyphs/tilde.glif
 <glyph name="tilde" format="1">
   <advance width="420"/>
   <unicode hex="02DC"/>
@@ -33,4 +34,43 @@
   <lib>
     <dict/>
   </lib>
+=======
+<glyph name="tilde" format="2">
+	<advance width="420"/>
+	<unicode hex="02DC"/>
+	<outline>
+		<contour>
+			<point x="69" y="634" type="curve"/>
+			<point x="77" y="658"/>
+			<point x="103" y="686"/>
+			<point x="139" y="682" type="curve" smooth="yes"/>
+			<point x="195" y="676"/>
+			<point x="198" y="626"/>
+			<point x="269" y="618" type="curve" smooth="yes"/>
+			<point x="356" y="609"/>
+			<point x="384" y="725"/>
+			<point x="384" y="725" type="curve"/>
+			<point x="378" y="739"/>
+			<point x="365" y="746"/>
+			<point x="347" y="749" type="curve"/>
+			<point x="339" y="730"/>
+			<point x="328" y="700"/>
+			<point x="293" y="700" type="curve" smooth="yes"/>
+			<point x="236" y="700"/>
+			<point x="234" y="756"/>
+			<point x="157" y="764" type="curve" smooth="yes"/>
+			<point x="66" y="773"/>
+			<point x="32" y="658"/>
+			<point x="32" y="658" type="curve"/>
+			<point x="37" y="643"/>
+			<point x="54" y="636"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-09-24 09:34:43 +0000</string>
+		</dict>
+	</lib>
+>>>>>>> 64a96ebffaf5013ba58d98fd80efa4318a310ffa:Cooperativa-Sans-Regular.ufo/glyphs/tilde.glif
 </glyph>

@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<<<<<<< HEAD:CooperativaSans.ufo/glyphs/quotedbl.glif
 <glyph name="quotedbl" format="1">
   <advance width="374"/>
   <unicode hex="0022"/>
@@ -32,4 +33,19 @@
       <point x="67" y="460" type="line"/>
     </contour>
   </outline>
+=======
+<glyph name="quotedbl" format="2">
+	<advance width="374"/>
+	<unicode hex="0022"/>
+	<outline>
+		<component base="comma" xOffset="-4" yOffset="590"/>
+		<component base="comma" xOffset="174" yOffset="590"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-09-24 07:40:44 +0000</string>
+		</dict>
+	</lib>
+>>>>>>> 64a96ebffaf5013ba58d98fd80efa4318a310ffa:Cooperativa-Sans-Regular.ufo/glyphs/quotedbl.glif
 </glyph>

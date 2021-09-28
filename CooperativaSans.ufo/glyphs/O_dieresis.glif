@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<<<<<<< HEAD:CooperativaSans.ufo/glyphs/O_dieresis.glif
 <glyph name="Odieresis" format="1">
   <advance width="745"/>
   <unicode hex="00D6"/>
@@ -6,4 +7,13 @@
     <component base="dieresis" xOffset="143" yOffset="194"/>
     <component base="O"/>
   </outline>
+=======
+<glyph name="Odieresis" format="2">
+	<advance width="745"/>
+	<unicode hex="00D6"/>
+	<outline>
+		<component base="dieresis" xOffset="143" yOffset="194"/>
+		<component base="O"/>
+	</outline>
+>>>>>>> 64a96ebffaf5013ba58d98fd80efa4318a310ffa:Cooperativa-Sans-Regular.ufo/glyphs/O_dieresis.glif
 </glyph>

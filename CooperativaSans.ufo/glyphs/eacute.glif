@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<<<<<<< HEAD:CooperativaSans.ufo/glyphs/eacute.glif
 <glyph name="eacute" format="1">
   <advance width="529"/>
   <unicode hex="00E9"/>
@@ -6,4 +7,13 @@
     <component base="acute" xOffset="153"/>
     <component base="e"/>
   </outline>
+=======
+<glyph name="eacute" format="2">
+	<advance width="529"/>
+	<unicode hex="00E9"/>
+	<outline>
+		<component base="acute" xOffset="153"/>
+		<component base="e"/>
+	</outline>
+>>>>>>> 64a96ebffaf5013ba58d98fd80efa4318a310ffa:Cooperativa-Sans-Regular.ufo/glyphs/eacute.glif
 </glyph>

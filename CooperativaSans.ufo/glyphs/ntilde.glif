@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<<<<<<< HEAD:CooperativaSans.ufo/glyphs/ntilde.glif
 <glyph name="ntilde" format="1">
   <advance width="567"/>
   <unicode hex="00F1"/>
@@ -9,4 +10,19 @@
   <lib>
     <dict/>
   </lib>
+=======
+<glyph name="ntilde" format="2">
+	<advance width="565"/>
+	<unicode hex="00F1"/>
+	<outline>
+		<component base="n"/>
+		<component base="tilde" xOffset="62"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-09-24 09:36:43 +0000</string>
+		</dict>
+	</lib>
+>>>>>>> 64a96ebffaf5013ba58d98fd80efa4318a310ffa:Cooperativa-Sans-Regular.ufo/glyphs/ntilde.glif
 </glyph>

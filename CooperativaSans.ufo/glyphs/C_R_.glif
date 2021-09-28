@@ -1,8 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<<<<<<< HEAD:CooperativaSans.ufo/glyphs/C_R_.glif
 <glyph name="CR" format="1">
   <advance width="333"/>
   <unicode hex="000D"/>
   <lib>
     <dict/>
   </lib>
+=======
+<glyph name="CR" format="2">
+	<advance width="413"/>
+	<unicode hex="000D"/>
+	<outline>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-09-24 09:14:46 +0000</string>
+		</dict>
+	</lib>
+>>>>>>> 64a96ebffaf5013ba58d98fd80efa4318a310ffa:Cooperativa-Sans-Regular.ufo/glyphs/C_R_.glif
 </glyph>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="z" format="1">
+  <advance width="497"/>
+  <unicode hex="007A"/>
+  <outline>
+    <contour>
+      <point x="448" y="-4" type="move"/>
+      <point x="456" y="20"/>
+      <point x="456" y="79"/>
+      <point x="450" y="98" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict/>
+  </lib>
+</glyph>

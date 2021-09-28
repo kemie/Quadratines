@@ -1,8 +1,15 @@
+<<<<<<< HEAD:CooperativaSans.ufo/features.fea
 
 
 @GDEF_Simple = [\E \F \P \e \f \g.alt \m \v \N \t \z \C \G \O \w \A \B \CR \D \H \I \J \K \L \M 
 	\Ntilde \Odieresis \Q \R \S \T \U \V \W \X \Y \Z \a \aacute \ampersand \at \b \breve \c 
 	\caron \cedilla \circumflex \colon \comma \d \dotaccent \eacute \eight \exclam 
+=======
+# Prefix: Prefix
+@GDEF_Simple = [\C \E \F \G \O \P \e \f \g.alt \m \v \w \A \B \CR \D \H \I \J \K \L \M \N \Ntilde 
+	\Odieresis \Q \R \S \T \U \V \W \X \Y \Z \a \aacute \ampersand \at \b \breve \c \caron 
+	\cedilla \circumflex \colon \comma \d \dotaccent \eacute \eight \exclam 
+>>>>>>> 64a96ebffaf5013ba58d98fd80efa4318a310ffa:Cooperativa-Sans-Regular.ufo/features.fea
 	\exclamdown \five \four \g \grave \h \hungarumlaut \hyphen \i \j \k \l \macron \n 
 	\nine \ntilde \o \oacute \odieresis \ogonek \one \overscore \p \p.001 \parenleft 
 	\parenright \period \q \question \questiondown \r \ring \s \semicolon \seven \six 

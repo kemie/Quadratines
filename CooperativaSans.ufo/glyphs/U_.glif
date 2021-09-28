@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<<<<<<< HEAD:CooperativaSans.ufo/glyphs/U_.glif
 <glyph name="U" format="1">
   <advance width="633"/>
   <unicode hex="0055"/>
@@ -39,4 +40,57 @@
   <lib>
     <dict/>
   </lib>
+=======
+<glyph name="U" format="2">
+	<advance width="641"/>
+	<unicode hex="0055"/>
+	<anchor x="321" y="750" name="top"/>
+	<anchor x="321" y="0" name="bottom"/>
+	<anchor x="577" y="10" name="ogonek"/>
+	<anchor x="621" y="750" name="topright"/>
+	<outline>
+		<contour>
+			<point x="323" y="-16" type="curve" smooth="yes"/>
+			<point x="452" y="-16"/>
+			<point x="583" y="37"/>
+			<point x="583" y="395" type="curve" smooth="yes"/>
+			<point x="583" y="415" type="line" smooth="yes"/>
+			<point x="583" y="616"/>
+			<point x="593" y="750"/>
+			<point x="593" y="750" type="curve"/>
+			<point x="478" y="750" type="line"/>
+			<point x="478" y="750"/>
+			<point x="488" y="616"/>
+			<point x="488" y="415" type="curve" smooth="yes"/>
+			<point x="488" y="395" type="line" smooth="yes"/>
+			<point x="488" y="106"/>
+			<point x="406" y="67"/>
+			<point x="323" y="67" type="curve" smooth="yes"/>
+			<point x="237" y="67"/>
+			<point x="153" y="106"/>
+			<point x="153" y="395" type="curve" smooth="yes"/>
+			<point x="153" y="415" type="line" smooth="yes"/>
+			<point x="153" y="616"/>
+			<point x="163" y="750"/>
+			<point x="163" y="750" type="curve"/>
+			<point x="48" y="750" type="line"/>
+			<point x="48" y="750"/>
+			<point x="58" y="616"/>
+			<point x="58" y="415" type="curve" smooth="yes"/>
+			<point x="58" y="395" type="line" smooth="yes"/>
+			<point x="58" y="37"/>
+			<point x="195" y="-16"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-09-24 09:27:17 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>=H-10</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>=H-10</string>
+		</dict>
+	</lib>
+>>>>>>> 64a96ebffaf5013ba58d98fd80efa4318a310ffa:Cooperativa-Sans-Regular.ufo/glyphs/U_.glif
 </glyph>

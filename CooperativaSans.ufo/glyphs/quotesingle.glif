@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<<<<<<< HEAD:CooperativaSans.ufo/glyphs/quotesingle.glif
 <glyph name="quotesingle" format="1">
   <advance width="184"/>
   <unicode hex="0027"/>
@@ -18,4 +19,18 @@
       <point x="67" y="460" type="line"/>
     </contour>
   </outline>
+=======
+<glyph name="quotesingle" format="2">
+	<advance width="184"/>
+	<unicode hex="0027"/>
+	<outline>
+		<component base="comma" xOffset="1" yOffset="589"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-09-24 07:40:57 +0000</string>
+		</dict>
+	</lib>
+>>>>>>> 64a96ebffaf5013ba58d98fd80efa4318a310ffa:Cooperativa-Sans-Regular.ufo/glyphs/quotesingle.glif
 </glyph>
