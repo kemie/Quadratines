@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="upArrow" format="2">
-	<advance width="600"/>
+	<advance width="691"/>
 	<unicode hex="2191"/>
 	<outline>
+		<component base="arrowright" xScale="0" xyScale="1" yScale="0" yxScale="-1" xOffset="665" yOffset="-26"/>
 	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-09-28 12:00:22 +0000</string>
+		</dict>
+	</lib>
 </glyph>

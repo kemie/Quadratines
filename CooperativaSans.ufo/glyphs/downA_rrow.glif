@@ -3,5 +3,12 @@
 	<advance width="600"/>
 	<unicode hex="2193"/>
 	<outline>
+		<component base="arrowright" xScale="0" xyScale="-1" yScale="0" yxScale="-1" xOffset="665" yOffset="665"/>
 	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-09-28 12:00:39 +0000</string>
+		</dict>
+	</lib>
 </glyph>

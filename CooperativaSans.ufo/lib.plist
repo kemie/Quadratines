@@ -5,10 +5,10 @@
 	<key>com.schriftgestaltung.DisplayStrings</key>
 	<array>
 		<string>a&amp;s.trp</string>
-		<string>ESCUELA SECUNDARIA
+		<string>ESCjJGUELA SECUNDARIA
 Agustin WVidalla Cicero
-THE QUICK BROWN FOX JUMPS OVER A LAZY DOG HHHOOO
-the quick brown fox jumps ovecr a lazy dog</string>
+THE QUICK Bque, dimeROWN FOX JUMPS OVER A LAZY DOG HHHOOOnnsnn
+the quick bcrovwn fhcox jumps ovecr a lazy dog</string>
 		<string>˜Ñnñ</string>
 		<string>010203040506070809020</string>
 		<string> </string>
@@ -17,6 +17,24 @@ the quick brown fox jumps ovecr a lazy dog</string>
 		<string>¨Ü</string>
 		<string>CGS)</string>
 		<string>l</string>
+		<string>'</string>
+		<string>“”‘’"'</string>
+		<string>ceanm</string>
+		<string>1</string>
+		<string>?</string>
+		<string>yKkz?¿</string>
+		<string>mn→</string>
+		<string>↑</string>
+		<string>↓</string>
+		<string>←</string>
+		<string>→</string>
+		<string>˙</string>
+		<string>,</string>
+		<string>,</string>
+		<string>"</string>
+		<string>,</string>
+		<string>C¿</string>
+		<string>¡¿?!</string>
 	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<true/>

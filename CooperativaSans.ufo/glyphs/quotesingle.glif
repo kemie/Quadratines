@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="quotesingle" format="2">
-	<advance width="184"/>
+	<advance width="189"/>
 	<unicode hex="0027"/>
 	<outline>
-		<component base="comma" xOffset="1" yOffset="589"/>
+		<component base="comma" xOffset="6" yOffset="589"/>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2021-09-24 07:40:57 +0000</string>
+			<string>2021-09-28 10:49:32 +0000</string>
 		</dict>
 	</lib>
 </glyph>

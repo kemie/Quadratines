@@ -10,10 +10,6 @@
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
 			<string>2021-09-28 06:52:42 +0000</string>
-			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>period</string>
-			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-			<string>period</string>
 		</dict>
 	</lib>
 </glyph>
