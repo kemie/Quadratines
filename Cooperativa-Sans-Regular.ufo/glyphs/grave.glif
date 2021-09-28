@@ -2,4 +2,6 @@
 <glyph name="grave" format="1">
   <advance width="600"/>
   <unicode hex="0060"/>
+  <outline>
+  </outline>
 </glyph>

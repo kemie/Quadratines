@@ -2,4 +2,6 @@
 <glyph name="caron" format="1">
   <advance width="600"/>
   <unicode hex="02C7"/>
+  <outline>
+  </outline>
 </glyph>

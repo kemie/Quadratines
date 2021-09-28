@@ -2,4 +2,6 @@
 <glyph name="breve" format="1">
   <advance width="600"/>
   <unicode hex="02D8"/>
+  <outline>
+  </outline>
 </glyph>

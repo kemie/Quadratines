@@ -4,9 +4,6 @@
   <unicode hex="00F3"/>
   <outline>
     <component base="o"/>
-    <component base="acute" xOffset="154" yOffset="1.5"/>
+    <component base="acute" xOffset="154" yOffset="1.500"/>
   </outline>
-  <lib>
-    <dict/>
-  </lib>
 </glyph>

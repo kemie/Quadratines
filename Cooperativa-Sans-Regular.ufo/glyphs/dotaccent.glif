@@ -2,4 +2,6 @@
 <glyph name="dotaccent" format="1">
   <advance width="600"/>
   <unicode hex="02D9"/>
+  <outline>
+  </outline>
 </glyph>

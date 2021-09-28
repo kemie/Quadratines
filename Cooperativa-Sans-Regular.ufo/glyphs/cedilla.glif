@@ -2,4 +2,6 @@
 <glyph name="cedilla" format="1">
   <advance width="600"/>
   <unicode hex="00B8"/>
+  <outline>
+  </outline>
 </glyph>
