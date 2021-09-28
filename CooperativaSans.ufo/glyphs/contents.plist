@@ -162,6 +162,8 @@
 	<string>l.glif</string>
 	<key>leftArrow</key>
 	<string>leftA_rrow.glif</string>
+	<key>leftRightArrow</key>
+	<string>leftR_ightA_rrow.glif</string>
 	<key>m</key>
 	<string>m.glif</string>
 	<key>macron</key>
@@ -256,6 +258,8 @@
 	<string>underscore.glif</string>
 	<key>upArrow</key>
 	<string>upA_rrow.glif</string>
+	<key>upDownArrow</key>
+	<string>upD_ownA_rrow.glif</string>
 	<key>v</key>
 	<string>v.glif</string>
 	<key>w</key>
