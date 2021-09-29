@@ -16,6 +16,11 @@
 		<string>W</string>
 		<string>Y</string>
 	</array>
+	<key>public.kern1.X</key>
+	<array>
+		<string>K</string>
+		<string>X</string>
+	</array>
 	<key>public.kern1.n</key>
 	<array>
 		<string>a</string>
@@ -24,6 +29,11 @@
 	<array>
 		<string>e</string>
 		<string>o</string>
+	</array>
+	<key>public.kern1.x</key>
+	<array>
+		<string>k</string>
+		<string>x</string>
 	</array>
 	<key>public.kern2.A</key>
 	<array>

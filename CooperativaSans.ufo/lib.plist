@@ -5,9 +5,6 @@
 	<key>com.schriftgestaltung.DisplayStrings</key>
 	<array>
 		<string>↑↗→↘↓↙←↖↔↕</string>
-		<string>↕</string>
-		<string>→n↔</string>
-		<string>/backslash</string>
 		<string>ARTÍCULO 4.- EXAMEN Y CALIFICACION.
  
 
@@ -29,7 +26,7 @@ E). El departamento de secundaria NO entregará calificaciones después del día
 ARTÍCULO 5.- PRESENTATOTOCION PERSONAL
  
 
-Los AVAWAYAYeYOlumnos de Secundaria deberán portrfar el uniffafefifofutatetitotuorme completo y limpio de lunes a viernes, a excepción de eventos especiales autorizados por Subdirección:
+Los AVAWAYAYeYOlumnos de Secundaria deberán portrfar el uniffafefifofutatetitUKO2,kxoun̈ü̈Öotuorme completo y limpio de lunes a viernes, a excepción de eventos especiales autorizados por Subdirección:
  </string>
 		<string>ARTÍCULO 6.- TIPOS DE FALTAS.
  
@@ -46,7 +43,7 @@ a) Llegar tarde a clases (tolerancia 15 minutos a la 1ra hora).
 b) No traer materiales de trabajo.
  
 
-c) Hacer desorden en los salones yopasillos de la escuela.
+c) Hacer desorden en los salones y//o pasillos de la escuela.
  
 
 d) No portar correctamente el uniforme oficial o deportivo.
@@ -105,7 +102,7 @@ e) Exceso de faltas injustificadas
 f) No entrar a clases estando dentro de la Institución por causa injustificada.
  
 
-Se consideran CONDICIONANTES las siguientes faltas, y haber sido suspendido por segunda ocasión.
+Se consideran COHNDICIONANTES las siguientes faltas, y haber sido suspendido por segunda ocasión.
  
 
 a) Acumulación de reportes graves o sanciones por reincidencia
@@ -128,32 +125,7 @@ f) Fumar dentro de la escuela.
 
 g)( Introducción yoconsumo de bebidas embriagantes dentro de la institución, el uso de modismos como piercing, aretes, expansiones, espinas, etc.
  </string>
-		<string>á</string>
-		<string>z</string>
-		<string>t</string>
-		<string>4</string>
-		<string>1</string>
-		<string>n-s_</string>
-		<string>#</string>
-		<string>(no)</string>
-		<string>?</string>
-		<string>&amp;</string>
-		<string></string>
-		<string></string>
-		<string></string>
-		<string></string>
-		<string></string>
-		<string> N˜</string>
-		<string>̃</string>
-		<string>˜</string>
-		<string>nñ</string>
-		<string>7</string>
-		<string>5L</string>
-		<string>eg/g.ss01</string>
-		<string>69</string>
-		<string>I</string>
-		<string>|</string>
-		<string>$</string>
+		<string>/Auditorio/Bibliotec/Cooperativa/Cubrebocas/Hombre/Laboratorio/Lavar/Mujer</string>
 	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
