@@ -18,6 +18,22 @@
 		<key>questiondown</key>
 		<integer>0</integer>
 	</dict>
+	<key>E</key>
+	<dict>
+		<key>c</key>
+		<integer>-10</integer>
+	</dict>
+	<key>F</key>
+	<dict>
+		<key>i</key>
+		<integer>-10</integer>
+		<key>public.kern2.a</key>
+		<integer>-20</integer>
+		<key>public.kern2.o</key>
+		<integer>-30</integer>
+		<key>r</key>
+		<integer>-20</integer>
+	</dict>
 	<key>L</key>
 	<dict>
 		<key>T</key>
