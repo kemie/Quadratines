@@ -1,14 +1,52 @@
-# Prefix: Languagesystems
-# automatic
 languagesystem DFLT dflt;
 
-feature aalt {
-# automatic
-feature ss01;
-} aalt;
+
+# GSUB 
+
+
+lookup ss01Estilo1lookup0 {
+  lookupflag 0;
+    sub \Q by \Q.ss01 ;
+} ss01Estilo1lookup0;
 
 feature ss01 {
-# automatic
-sub Q by Q.ss01;
+
+ script DFLT;
+     language dflt ;
+      lookup ss01Estilo1lookup0;
 } ss01;
+
+# GPOS 
+
+
+lookup kernInterletrajehorizontallookup0 {
+  lookupflag 0;
+} kernInterletrajehorizontallookup0;
+
+feature kern {
+
+ script DFLT;
+     language dflt ;
+      lookup kernInterletrajehorizontallookup0;
+} kern;
+
+@GDEF_Simple = [\A \Aacute \B \C \CR \D \E \Eacute \F \G \H \I \Iacute \J \K \L \M \N \Ntilde 
+	\O \Oacute \Odieresis \P \Q \Q.ss01 \R \S \T \U \Uacute \Udieresis \V \W \X \Y \Z \a 
+	\aacute \ampersand \arrowright \asterisk \at \b \backslash \breve \c \caron 
+	\cedilla \circumflex \colon \comma \d \dollar \dotaccent \downArrow \e \eacute 
+	\eight \exclam \exclamdown \f \five \four \g \g.alt \grave \h \hungarumlaut \hyphen 
+	\i \i.001 \iacute \idotless \j \k \l \leftArrow \leftRightArrow \m \macron \n \nine 
+	\northEastArrow \northWestArrow \ntilde \numbersign \o \oacute \odieresis 
+	\ogonek \one \overscore \p \p.001 \parenleft \parenright \period \q \question 
+	\questiondown \quotedbl \quotedblleft \quotedblright \quoteleft \quoteright 
+	\quotesingle \r \ring \s \semicolon \seven \six \slash \southEastArrow 
+	\southWestArrow \space \t \three \two \u \uacute \udieresis \underscore \upArrow 
+	\upDownArrow \v \w \x \y \z \zero \Cubrebocas \Bibliotec \Laboratorio \Auditorio 
+	\Lavar \Cooperativa ];
+@GDEF_Mark = [\acute \acutecomb \dieresis \dieresiscomb \tilde \tildecomb ];
+
+table GDEF {
+  GlyphClassDef @GDEF_Simple, , @GDEF_Mark, ;
+
+} GDEF;
 

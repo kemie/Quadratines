@@ -1,40 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<dict>
-	<key>E</key>
-	<string>E_.glif</string>
-	<key>F</key>
-	<string>F_.glif</string>
-	<key>N</key>
-	<string>N_.glif</string>
-	<key>P</key>
-	<string>P_.glif</string>
-	<key>U</key>
-	<string>U_.glif</string>
-	<key>a</key>
-	<string>a.glif</string>
-	<key>comma</key>
-	<string>comma.glif</string>
-	<key>e</key>
-	<string>e.glif</string>
-	<key>f</key>
-	<string>f.glif</string>
-	<key>g.alt</key>
-	<string>g.alt.glif</string>
-	<key>m</key>
-	<string>m.glif</string>
-	<key>one</key>
-	<string>one.glif</string>
-	<key>t</key>
-	<string>t.glif</string>
-	<key>two</key>
-	<string>two.glif</string>
-	<key>u</key>
-	<string>u.glif</string>
-	<key>v</key>
-	<string>v.glif</string>
-	<key>z</key>
-	<string>z.glif</string>
-</dict>
+  <dict>
+    <key>E</key>
+    <string>E_.glif</string>
+    <key>F</key>
+    <string>F_.glif</string>
+    <key>N</key>
+    <string>N_.glif</string>
+    <key>P</key>
+    <string>P_.glif</string>
+    <key>a</key>
+    <string>a.glif</string>
+    <key>comma</key>
+    <string>comma.glif</string>
+    <key>e</key>
+    <string>e.glif</string>
+    <key>f</key>
+    <string>f.glif</string>
+    <key>g.alt</key>
+    <string>g.alt.glif</string>
+    <key>m</key>
+    <string>m.glif</string>
+    <key>one</key>
+    <string>one.glif</string>
+    <key>t</key>
+    <string>t.glif</string>
+    <key>two</key>
+    <string>two.glif</string>
+    <key>u</key>
+    <string>u.glif</string>
+    <key>v</key>
+    <string>v.glif</string>
+    <key>z</key>
+    <string>z.glif</string>
+  </dict>
 </plist>
