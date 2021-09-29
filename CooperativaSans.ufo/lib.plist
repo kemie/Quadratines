@@ -125,7 +125,8 @@ f) Fumar dentro de la escuela.
 
 g)( Introducción yoconsumo de bebidas embriagantes dentro de la institución, el uso de modismos como piercing, aretes, expansiones, espinas, etc.
  </string>
-		<string>/Auditorio/Bibliotec/Cooperativa/Cubrebocas/Hombre/Laboratorio/Lavar/Mujer</string>
+		<string>/Auditorio/Cooperativa/Cubrebocas/Hombre/Laboratorio/Lavar/Mujer</string>
+		<string>:coop:</string>
 	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
@@ -275,7 +276,7 @@ g)( Introducción yoconsumo de bebidas embriagantes dentro de la institución, e
 		<string>cedilla</string>
 		<string>ogonek</string>
 		<string>Auditorio</string>
-		<string>Bibliotec</string>
+		<string>Biblioteca</string>
 		<string>Cooperativa</string>
 		<string>Cubrebocas</string>
 		<string>Hombre</string>
