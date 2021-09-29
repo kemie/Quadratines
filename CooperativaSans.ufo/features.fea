@@ -1,21 +1,6 @@
 languagesystem DFLT dflt;
 
 
-# GSUB 
-
-
-lookup ss01Estilo1lookup0 {
-  lookupflag 0;
-    sub \Q by \Q.ss01 ;
-} ss01Estilo1lookup0;
-
-feature ss01 {
-
- script DFLT;
-     language dflt ;
-      lookup ss01Estilo1lookup0;
-} ss01;
-
 # GPOS 
 
 
@@ -30,19 +15,19 @@ feature kern {
       lookup kernInterletrajehorizontallookup0;
 } kern;
 
-@GDEF_Simple = [\A \Aacute \B \C \CR \D \E \Eacute \F \G \H \I \Iacute \J \K \L \M \N \Ntilde 
-	\O \Oacute \Odieresis \P \Q \Q.ss01 \R \S \T \U \Uacute \Udieresis \V \W \X \Y \Z \a 
-	\aacute \ampersand \arrowright \asterisk \at \b \backslash \breve \c \caron 
-	\cedilla \circumflex \colon \comma \d \dollar \dotaccent \downArrow \e \eacute 
-	\eight \exclam \exclamdown \f \five \four \g \g.alt \grave \h \hungarumlaut \hyphen 
-	\i \i.001 \iacute \idotless \j \k \l \leftArrow \leftRightArrow \m \macron \n \nine 
-	\northEastArrow \northWestArrow \ntilde \numbersign \o \oacute \odieresis 
-	\ogonek \one \overscore \p \p.001 \parenleft \parenright \period \q \question 
-	\questiondown \quotedbl \quotedblleft \quotedblright \quoteleft \quoteright 
-	\quotesingle \r \ring \s \semicolon \seven \six \slash \southEastArrow 
-	\southWestArrow \space \t \three \two \u \uacute \udieresis \underscore \upArrow 
-	\upDownArrow \v \w \x \y \z \zero \Cubrebocas \Bibliotec \Laboratorio \Auditorio 
-	\Lavar \Cooperativa ];
+@GDEF_Simple = [\E \F \N \P \a \comma \e \f \g.alt \m \one \t \two \u \v \z \A \Aacute \B \C \CR 
+	\D \Eacute \G \H \I \Iacute \J \K \L \M \Ntilde \O \Oacute \Odieresis \Q \Q.ss01 \R \S \T 
+	\U \Uacute \Udieresis \V \W \X \Y \Z \aacute \ampersand \arrowright \asterisk \at \b 
+	\backslash \breve \c \caron \cedilla \circumflex \colon \d \dollar \dotaccent 
+	\downArrow \eacute \eight \exclam \exclamdown \five \four \g \grave \h 
+	\hungarumlaut \hyphen \i \i.001 \iacute \idotless \j \k \l \leftArrow 
+	\leftRightArrow \macron \n \nine \northEastArrow \northWestArrow \ntilde 
+	\numbersign \o \oacute \odieresis \ogonek \overscore \p \p.001 \parenleft 
+	\parenright \period \q \question \questiondown \quotedbl \quotedblleft 
+	\quotedblright \quoteleft \quoteright \quotesingle \r \ring \s \semicolon \seven 
+	\six \slash \southEastArrow \southWestArrow \space \three \uacute \udieresis 
+	\underscore \upArrow \upDownArrow \w \x \y \zero \Cubrebocas \Bibliotec 
+	\Laboratorio \Auditorio \Lavar \Cooperativa \Hombre \Mujer ];
 @GDEF_Mark = [\acute \acutecomb \dieresis \dieresiscomb \tilde \tildecomb ];
 
 table GDEF {

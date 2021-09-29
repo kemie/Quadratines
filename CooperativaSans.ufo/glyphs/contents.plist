@@ -2,6 +2,38 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <dict>
+    <key>E</key>
+    <string>E_.glif</string>
+    <key>F</key>
+    <string>F_.glif</string>
+    <key>N</key>
+    <string>N_.glif</string>
+    <key>P</key>
+    <string>P_.glif</string>
+    <key>a</key>
+    <string>a.glif</string>
+    <key>comma</key>
+    <string>comma.glif</string>
+    <key>e</key>
+    <string>e.glif</string>
+    <key>f</key>
+    <string>f.glif</string>
+    <key>g.alt</key>
+    <string>g.alt.glif</string>
+    <key>m</key>
+    <string>m.glif</string>
+    <key>one</key>
+    <string>one.glif</string>
+    <key>t</key>
+    <string>t.glif</string>
+    <key>two</key>
+    <string>two.glif</string>
+    <key>u</key>
+    <string>u.glif</string>
+    <key>v</key>
+    <string>v.glif</string>
+    <key>z</key>
+    <string>z.glif</string>
     <key>.notdef</key>
     <string>_notdef.glif</string>
     <key>A</key>
@@ -16,12 +48,8 @@
     <string>C_R_.glif</string>
     <key>D</key>
     <string>D_.glif</string>
-    <key>E</key>
-    <string>E_.glif</string>
     <key>Eacute</key>
     <string>E_acute.glif</string>
-    <key>F</key>
-    <string>F_.glif</string>
     <key>G</key>
     <string>G_.glif</string>
     <key>H</key>
@@ -38,8 +66,6 @@
     <string>L_.glif</string>
     <key>M</key>
     <string>M_.glif</string>
-    <key>N</key>
-    <string>N_.glif</string>
     <key>Ntilde</key>
     <string>N_tilde.glif</string>
     <key>O</key>
@@ -48,8 +74,6 @@
     <string>O_acute.glif</string>
     <key>Odieresis</key>
     <string>O_dieresis.glif</string>
-    <key>P</key>
-    <string>P_.glif</string>
     <key>Q</key>
     <string>Q_.glif</string>
     <key>Q.ss01</key>
@@ -76,8 +100,6 @@
     <string>Y_.glif</string>
     <key>Z</key>
     <string>Z_.glif</string>
-    <key>a</key>
-    <string>a.glif</string>
     <key>aacute</key>
     <string>aacute.glif</string>
     <key>acute</key>
@@ -108,8 +130,6 @@
     <string>circumflex.glif</string>
     <key>colon</key>
     <string>colon.glif</string>
-    <key>comma</key>
-    <string>comma.glif</string>
     <key>d</key>
     <string>d.glif</string>
     <key>dieresis</key>
@@ -122,8 +142,6 @@
     <string>dotaccent.glif</string>
     <key>downArrow</key>
     <string>downA_rrow.glif</string>
-    <key>e</key>
-    <string>e.glif</string>
     <key>eacute</key>
     <string>eacute.glif</string>
     <key>eight</key>
@@ -132,16 +150,12 @@
     <string>exclam.glif</string>
     <key>exclamdown</key>
     <string>exclamdown.glif</string>
-    <key>f</key>
-    <string>f.glif</string>
     <key>five</key>
     <string>five.glif</string>
     <key>four</key>
     <string>four.glif</string>
     <key>g</key>
     <string>g.glif</string>
-    <key>g.alt</key>
-    <string>g.alt.glif</string>
     <key>grave</key>
     <string>grave.glif</string>
     <key>h</key>
@@ -168,8 +182,6 @@
     <string>leftA_rrow.glif</string>
     <key>leftRightArrow</key>
     <string>leftR_ightA_rrow.glif</string>
-    <key>m</key>
-    <string>m.glif</string>
     <key>macron</key>
     <string>macron.glif</string>
     <key>n</key>
@@ -192,8 +204,6 @@
     <string>odieresis.glif</string>
     <key>ogonek</key>
     <string>ogonek.glif</string>
-    <key>one</key>
-    <string>one.glif</string>
     <key>overscore</key>
     <string>overscore.glif</string>
     <key>p</key>
@@ -244,18 +254,12 @@
     <string>southW_estA_rrow.glif</string>
     <key>space</key>
     <string>space.glif</string>
-    <key>t</key>
-    <string>t.glif</string>
     <key>three</key>
     <string>three.glif</string>
     <key>tilde</key>
     <string>tilde.glif</string>
     <key>tildecomb</key>
     <string>tildecomb.glif</string>
-    <key>two</key>
-    <string>two.glif</string>
-    <key>u</key>
-    <string>u.glif</string>
     <key>uacute</key>
     <string>uacute.glif</string>
     <key>udieresis</key>
@@ -266,16 +270,12 @@
     <string>upA_rrow.glif</string>
     <key>upDownArrow</key>
     <string>upD_ownA_rrow.glif</string>
-    <key>v</key>
-    <string>v.glif</string>
     <key>w</key>
     <string>w.glif</string>
     <key>x</key>
     <string>x.glif</string>
     <key>y</key>
     <string>y.glif</string>
-    <key>z</key>
-    <string>z.glif</string>
     <key>zero</key>
     <string>zero.glif</string>
     <key>Cubrebocas</key>
@@ -290,5 +290,9 @@
     <string>L_avar.glif</string>
     <key>Cooperativa</key>
     <string>C_ooperativa.glif</string>
+    <key>Hombre</key>
+    <string>H_ombre.glif</string>
+    <key>Mujer</key>
+    <string>M_ujer.glif</string>
   </dict>
 </plist>
